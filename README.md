@@ -1,4 +1,7 @@
-# Hi, I’m Bhoomi! 👋
+<h1 align="center">
+  Hi, I’m Bhoomi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
 
 I’m a B.Tech Computer Engineering student at KJ Somaiya College of Engineering, with an honors in Cybersecurity.
 I’m passionate about building tech that makes a difference and love exploring the intersection of security and software development.
